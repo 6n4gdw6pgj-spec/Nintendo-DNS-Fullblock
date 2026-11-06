@@ -14,6 +14,23 @@ receive-lp1.dg.srv.nintendo.net
 conntest.nintendowifi.net
 e0d67c509fb203858ebcb2fe3f88c2aa.baas.nintendo.com
 app-a03.lp1.npns.srv.nintendo.net
+dragons.p01.lp1.dragons.nintendo.net
+bvc.p01.lp1.bvc.srv.nintendo.net
+list.p01.lp1.bcat.srv.nintendo.net
+val.p01.lp1.penne.srv.nintendo.net
+data.p01.lp1.bcat.srv.nintendo.net
+fro-2.p01.lp1.penne.srv.nintendo.net
+t-12f3952d-lp1.lp1.t.npln.srv.nintendo.net
+realtime-receive.p01.lp1.dg.srv.nintendo.net
+storage.p01.lp1.scsi.srv.nintendo.net
+policy.p01.lp1.scsi.srv.nintendo.net
+pegasus.p01.lp1.pegasus.srv.nintendo.net
+m-lp1.baas.nintendo.com
+ctest-ipv6.p01.ctest.srv.nintendo.net
+api.p01.lp1.tabiji.srv.nintendo.net
+aauth.p01.lp1.ndas.srv.nintendo.net
+enishi.p01.lp1.idobata.srv.nintendo.net
+app.lp1.five.nintendo.net
 
 # 90DNS-equivalent
 nintendo.com
